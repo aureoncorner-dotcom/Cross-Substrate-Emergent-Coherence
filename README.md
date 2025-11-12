@@ -1,5 +1,5 @@
 # Cross-Substrate-Emergent-Coherence
-Human + AI Collaboration: More than the sum of it's parts.
+Human + AI Collaboration: More than the sum of its parts.
 
 # License Summary – # Cross-Substrate Emergent Coherence
 All files in this collection are released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
