@@ -2,11 +2,15 @@
 CC0 PUBLIC DOMAIN — NO RIGHTS RESERVED
 
 Version 1.0 — 20 Nov 2025
-
 0. LICENSE (CC0)
+
+Readers should begin with Book Zero for narrative orientation, then return here as a reference index
 
 This entire repository and its contents are dedicated to the public domain.
 You may copy, modify, redistribute, fork, transform, or embed this architecture in any project (including commercial) without permission.
+
+This META document describes relationships, not mandates.
+Any component may be modified or discarded without invalidating CTA as a whole.
 
 1. PURPOSE OF THE META DOCUMENT
 
@@ -239,3 +243,4 @@ END OF META DOCUMENT
 
 CC0 PUBLIC DOMAIN
 Free to fork, modify, repackage, or embed into future cognitive architectures.
+
